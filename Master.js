@@ -7,7 +7,7 @@ $(`<div class="rainbow"><div class="rainbow"><img src="https://chatnsh.com/sico/
  `).insertBefore('.nav-tabs');
  
 $(`<link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera">
-<link rel="stylesheet" type="text/css" href="https://rawcdn.githack.com/omar-alhaded/omar.alhadef/7cf47cf2ee7c7e3f6349e7258d64991ae6834943/Master.css">
+<link rel="stylesheet" type="text/css" href="https://rawcdn.githack.com/omar-alhaded/omar.alhadef/9829cb8738802baef4dc008dfa334302479840d0/Master.css">
 </style>`).insertBefore('body');
 
 $('.loginstat').removeClass('fl').addClass('fr').css({"margin-right":"2px","margin-left":"-12px"}).appendTo('a.label.label-primary.fl')
