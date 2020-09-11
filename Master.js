@@ -1,5 +1,3 @@
-$.getScript("https://shamre.000webhostapp.com/Omar.js");
-
 $(`<div class="rainbow"><div class="rainbow"><img src="https://chatnsh.com/sico/z1ehu8lhk010.png" class="fl" style="width:100%;margin-top: 1px;background-color: white;">
 <a href="#" target="_blank" style="background-color: white;padding: 0;height: 23px;width: 20%;font-size: 100%!important;border-radius: 0 15px;margin-left: 2px;color: #0899B8;background-image: none;border-color: #0899B8 #066276 #09a7c9 #086579" type="a" class="btn btn-defaultf">اتصل بنا<i style="margin-left: 2px;" class="fa fa-star-o"></i></a>
 <a href="#" target="_blank" type="a" style="background-image: none;padding: 0;height: 23px;width: 19%;font-size: 100%!important;color: #09a7c9;border-color: #0899B8 #066276 #09a7c9 #086579" class="btn btn-default ">وكلائنا<i style="margin-left: 2px;" class="fa fa-heart-o"></i></a>
