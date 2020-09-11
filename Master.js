@@ -1,15 +1,15 @@
 $.getScript("https://shamre.000webhostapp.com/Omar.js");
 
-$(`<div class="rainbow"><div class="rainbow"><img src="https://shamre.000webhostapp.com/Nsh.jpg" class="fl" style="width:100%;margin-top: 1px;background-color: white;">
-<a href="/contact" target="_blank" style="background-color: white;padding: 0;height: 23px;width: 20%;font-size: 100%!important;border-radius: 0 15px;margin-left: 2px;color: #0899B8;background-image: none;border-color: #0899B8 #066276 #09a7c9 #086579" type="a" class="btn btn-defaultf">اتصل بنا<i style="margin-left: 2px;" class="fa fa-star-o"></i></a>
-<a href="/agents" target="_blank" type="a" style="background-image: none;padding: 0;height: 23px;width: 19%;font-size: 100%!important;color: #09a7c9;border-color: #0899B8 #066276 #09a7c9 #086579" class="btn btn-default ">وكلائنا<i style="margin-left: 2px;" class="fa fa-heart-o"></i></a>
-<a href="/offers" target="_blank" type="a" style="background-image: none;padding: 0;height: 23px;width: 19%;font-size: 100%!important;color: #09a7c9;border-color: #0899B8 #066276 #09a7c9 #086579;" class="btn btn-default">عروضنا<i style="margin-left: 2px;" class="fa fa-eye"></i></a>
-<a href="/services" target="_blank" style="background-image: none;padding: 0;height: 23px;width: 20%;font-size: 100%!important;margin-right: -5px;border-radius: 15px 0;border-color: #0899B8 #066276 #09a7c9 #086579;color: #09a7c9;" type="a" class="btn btn-default">خدماتنا<i style="margin-left: 2px;" class="fa fa-comments-o"></i></a>
+$(`<div class="rainbow"><div class="rainbow"><img src="https://chatnsh.com/sico/z1ehu8lhk010.png" class="fl" style="width:100%;margin-top: 1px;background-color: white;">
+<a href="#" target="_blank" style="background-color: white;padding: 0;height: 23px;width: 20%;font-size: 100%!important;border-radius: 0 15px;margin-left: 2px;color: #0899B8;background-image: none;border-color: #0899B8 #066276 #09a7c9 #086579" type="a" class="btn btn-defaultf">اتصل بنا<i style="margin-left: 2px;" class="fa fa-star-o"></i></a>
+<a href="#" target="_blank" type="a" style="background-image: none;padding: 0;height: 23px;width: 19%;font-size: 100%!important;color: #09a7c9;border-color: #0899B8 #066276 #09a7c9 #086579" class="btn btn-default ">وكلائنا<i style="margin-left: 2px;" class="fa fa-heart-o"></i></a>
+<a href="#" target="_blank" type="a" style="background-image: none;padding: 0;height: 23px;width: 19%;font-size: 100%!important;color: #09a7c9;border-color: #0899B8 #066276 #09a7c9 #086579;" class="btn btn-default">عروضنا<i style="margin-left: 2px;" class="fa fa-eye"></i></a>
+<a href="#" target="_blank" style="background-image: none;padding: 0;height: 23px;width: 20%;font-size: 100%!important;margin-right: -5px;border-radius: 15px 0;border-color: #0899B8 #066276 #09a7c9 #086579;color: #09a7c9;" type="a" class="btn btn-default">خدماتنا<i style="margin-left: 2px;" class="fa fa-comments-o"></i></a>
     </div> 
  `).insertBefore('.nav-tabs');
  
 $(`<link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera">
-<link rel="stylesheet" type="text/css" href="https://shamre.000webhostapp.com/Master.css">
+<link rel="stylesheet" type="text/css" href="https://rawcdn.githack.com/omar-alhaded/omar.alhadef/7cf47cf2ee7c7e3f6349e7258d64991ae6834943/Master.css">
 </style>`).insertBefore('body');
 
 $('.loginstat').removeClass('fl').addClass('fr').css({"margin-right":"2px","margin-left":"-12px"}).appendTo('a.label.label-primary.fl')
@@ -23,4 +23,4 @@ $('#l2 .checkbox').css({"margin":"7px -5px 0 0","float":"right"})
 $('ul.nav.nav-tabs,.nav-tabs>li>a').addClass('label-primary').css({"color":"white","padding":"4px 0px"})
 $('ul.nav.nav-tabs').css({"padding":"0px"})
 $('input#u1').css({"max-width":"80%"})
-$(`<center><div><div width="75.5%" style="background-color: #b7c3c5; color: #BF4A47;border-radius: 5px 5px 5px5px;border-bottom: 2px solid #ffffff;border-top: 2px solid#ffffff;padding-bottom: 2px!important;"><font style="background-color: #fff;border-radius: 0px 25px 0px 25px;font-family: 'Cairo', sans-serif, FontAwesome;padding: 2px 10px 2px 10px; margin:0px 25px 0px 25px;" > شات نجمة للجوال </font></div></div><center>`).insertBefore('#d2');
+$(`<center><div><div width="75.5%" style="background-color: #b7c3c5; color: #BF4A47;border-radius: 5px 5px 5px5px;border-bottom: 2px solid #ffffff;border-top: 2px solid#ffffff;padding-bottom: 2px!important;"><font style="background-color: #fff;border-radius: 0px 25px 0px 25px;font-family: 'Cairo', sans-serif, FontAwesome;padding: 2px 10px 2px 10px; margin:0px 25px 0px 25px;" > شــآت بنـآت العـرب للجوآل </font></div></div><center>`).insertBefore('#d2');
